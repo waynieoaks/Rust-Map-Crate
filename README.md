@@ -7,6 +7,7 @@ Map Crate automatically marks hackable crates on the in-game map with a blue cir
 
 ##  Features
 * Marks hackable crates with a blue map indicator
+* Ignores hackable crates on cargo ship
 * No configuration, commands, or permissions required
 * Markers are removed automatically when the crate despawns or is looted
 * Fully server-side and lightweight
