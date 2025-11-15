@@ -3,7 +3,7 @@
 
 Map Crate automatically marks hackable crates on the in-game map with a blue circular marker - allowing players to quickly see what monument the crate has been dropped at.
 
-![Map Crate](https://raw.githubusercontent.com/waynieoaks/Rust-Map-Crate/main/images/Map-Crate.png)
+![Map Crate](https://github.com/waynieoaks/Rust-Map-Crate/blob/main/images/Map-Crate.png?raw=true)
 
 ##  Features
 * Marks hackable crates with a blue map indicator
