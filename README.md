@@ -1,2 +1,2 @@
 # Rust-Map-Crate
-Shows where hackable crates are on the map
+Rust Plugin: Shows where hackable crates are on the map
